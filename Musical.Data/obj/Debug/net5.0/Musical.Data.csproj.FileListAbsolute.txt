@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\bin\Debug\net5.0\Musical.Data.deps.json
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\bin\Debug\net5.0\Musical.Data.dll
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\bin\Debug\net5.0\Musical.Data.pdb
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\bin\Debug\net5.0\Musical.Entity.dll
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\bin\Debug\net5.0\Musical.Entity.pdb
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.csproj.CopyComplete
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.dll
+C:\Users\Lenovo\Documents\project\musicstore\Musical.Data\obj\Debug\net5.0\Musical.Data.pdb

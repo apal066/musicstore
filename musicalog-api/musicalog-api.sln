@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicalog-api", "musicalog-api.csproj", "{113A374C-F0D9-455B-8946-8EEB5CB27BEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "musicalog-api", "musicalog-api.csproj", "{113A374C-F0D9-455B-8946-8EEB5CB27BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musical.Data", "..\Musical.Data\Musical.Data.csproj", "{EC2CCD8A-E5E3-42EA-890E-844111B5B6E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musical.Services", "..\Musical.Services\Musical.Services.csproj", "{60C740EC-7046-4EFA-8A83-349F39A4ED0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musical.Entity", "..\Musical.Entity\Musical.Entity.csproj", "{F3BECA58-B6E3-4CF6-97C8-0C1C81C9B933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{113A374C-F0D9-455B-8946-8EEB5CB27BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{113A374C-F0D9-455B-8946-8EEB5CB27BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{113A374C-F0D9-455B-8946-8EEB5CB27BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2CCD8A-E5E3-42EA-890E-844111B5B6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2CCD8A-E5E3-42EA-890E-844111B5B6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2CCD8A-E5E3-42EA-890E-844111B5B6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2CCD8A-E5E3-42EA-890E-844111B5B6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C740EC-7046-4EFA-8A83-349F39A4ED0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C740EC-7046-4EFA-8A83-349F39A4ED0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C740EC-7046-4EFA-8A83-349F39A4ED0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C740EC-7046-4EFA-8A83-349F39A4ED0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BECA58-B6E3-4CF6-97C8-0C1C81C9B933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BECA58-B6E3-4CF6-97C8-0C1C81C9B933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BECA58-B6E3-4CF6-97C8-0C1C81C9B933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BECA58-B6E3-4CF6-97C8-0C1C81C9B933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

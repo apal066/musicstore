@@ -13,6 +13,8 @@ import {
     MenuFoldOutlined
   } from '@ant-design/icons';
 import Album from '../components/pages/album';
+import AlbumDetail from '../components/pages/albumDetail';
+
 
 const { Header, Sider, Content} = Layout;
 
@@ -46,11 +48,12 @@ const ApplicationRoutes = () => {
                 <Switch>
               <Route path="/list" component={List} />
               <Route path="/album" component={Album} />
+              {/* <Route path="album/:id" children={<AlbumDetail />} /> */}
               
                     <Route path="/form" component={Form} />
                     <Route path="/files" component={File} />
                     <Route path="/videos" component={Videos} />
-                    <Redirect to="/list" from="/" />
+              <Redirect to="/list" from="/" />
                 </Switch>
               </Content>
           </Layout>

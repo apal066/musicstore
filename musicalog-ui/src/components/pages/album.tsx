@@ -46,7 +46,7 @@ const Album = () => {
      type: album.type,
      stock: album.stock,
    })
-   return data;
+  // return data;
  });
 
   const handleClick = () => {
