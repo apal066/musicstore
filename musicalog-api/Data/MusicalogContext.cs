@@ -1,10 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Musical.Entity.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Musical.Data.Data
 {
@@ -19,7 +14,7 @@ namespace Musical.Data.Data
         {
         }
 
-        public virtual DbSet<Album> Album { get; set; }
+        public virtual DbSet<Album> Albums { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,9 +1,0 @@
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\bin\Debug\net5.0\Musical.Entity.deps.json
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\bin\Debug\net5.0\Musical.Entity.dll
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\bin\Debug\net5.0\Musical.Entity.pdb
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.csprojAssemblyReference.cache
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.AssemblyInfo.cs
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.dll
-C:\Users\Lenovo\Documents\project\musicstore\Musical.Entity\obj\Debug\net5.0\Musical.Entity.pdb
