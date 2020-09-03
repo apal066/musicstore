@@ -1,0 +1,47 @@
+{
+
+  "albums": [
+    {
+      "id": 1,
+      "name": "a1",
+      "artist": "",
+      "type": "cd",
+      "stock": "s1"
+    },
+    {
+      "id": 2,
+      "name": "a2",
+      "artist": "",
+      "type": "cd",
+      "stock": "s1"
+    },
+    {
+      "id": 3,
+      "name": "a3",
+      "artist": "",
+      "type": "cd",
+      "stock": "s1"
+    },
+    {
+      "id": 4,
+      "name": "a4",
+      "artist": "",
+      "type": "cd",
+      "stock": "s1"
+    },
+    {
+      "albumname": "My Dear Alma",
+      "artist": "UIO",
+      "type": "cd",
+      "stock": true,
+      "id": 5
+    },
+    {
+      "name": "OP",
+      "artist": "OP",
+      "type": "vinyl",
+      "stock": true,
+      "id": 6
+    }
+  ]
+}
