@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -33,7 +34,12 @@ namespace musicalog_api
             services.AddSingleton(mapper);
             services.AddControllers();
             services.AddTransient<IAlbumService, AlbumService>();
-            services.AddTransient<MusicalogContext>();
+            var con = new DbContextOptionsBuilder<MusicalogContext>();
+            con.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            services.AddTransient<MusicalogContext>(provider =>
+            {
+                return new MusicalogContext(con.Options);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
